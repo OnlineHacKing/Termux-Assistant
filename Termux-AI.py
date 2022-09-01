@@ -6,7 +6,7 @@ import subprocess
 
 
 os.system('screenfetch')
-print('\033[1m' + '\033[91m'+'     ///   CREATED BY TECHNICAL B9T   ///')
+print('\033[1m' + '\033[91m'+'     ///   CREATED BY Online Hacking (termux.xyz)   ///')
 def wish():
   h=int(datetime.datetime.now().hour)
   if h<12:
